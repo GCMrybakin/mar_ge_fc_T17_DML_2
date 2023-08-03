@@ -1,6 +1,3 @@
-CREATE DATABASE DML4Mrybakin;
-USE DML4Mrybakin;
-
 CREATE TABLE Peliculas (
     codigo INT PRIMARY KEY,
     nombre VARCHAR(100),
